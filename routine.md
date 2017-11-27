@@ -1,3 +1,10 @@
+---
+documentclass: extarticle
+fontsize: 14pt
+---
+
+\pagenumbering{gobble}
+
 # Daily Routine
 
 The following are tasks I intend to perform every morning and evening.
@@ -15,3 +22,4 @@ The following are tasks I intend to perform every morning and evening.
 - __Wall Exercises__ to correct Forward Head Posture
 - Record the People I reached today in spreadsheet
 - Write **Retrospective**
+
